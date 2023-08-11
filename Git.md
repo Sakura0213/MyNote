@@ -1,7 +1,7 @@
 ### 1. Git 初始化
 
 ```
-git config --global user.name zengxin0213
+git config --global user.name Sakura0213
 git config --global user.email zengxin@email.cn
 ssh-keygen -t rsa -C "zengxin@email.cn"
 cat ~/.ssh/id_rsa.pub
