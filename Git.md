@@ -60,5 +60,3 @@ git push -u origin gh-pages
 git checkout master
 ```
 
-^
-^

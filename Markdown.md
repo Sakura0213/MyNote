@@ -244,7 +244,4 @@ $(document).ready(function () {
 </table>
 ```
 
-```
-```
 
-^
