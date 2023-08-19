@@ -16,3 +16,14 @@ B1D4C178 2F9DDB16 ABAA74E5 95304BEF
 —— END LICENSE ——
 ```
 
+
+
+### Typora 整合 又拍云
+
+#### Typora 配置
+
+![image-20230819160153715](http://zengxinyou.test.upcdn.net/ocq/image-20230819160153715.png)
+
+#### 配置文件配置
+
+![image-20230819160403214](http://zengxinyou.test.upcdn.net/ocq/image-20230819160403214.png)
