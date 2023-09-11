@@ -22,8 +22,27 @@ B1D4C178 2F9DDB16 ABAA74E5 95304BEF
 
 #### Typora 配置
 
-![image-20230819160153715](http://zengxinyou.test.upcdn.net/ocq/image-20230819160153715.png)
+![image-20230819184234576](http://zengxinyou.test.upcdn.net/ocq/image-20230819184234576.png)
 
 #### 配置文件配置
 
-![image-20230819160403214](http://zengxinyou.test.upcdn.net/ocq/image-20230819160403214.png)
+```
+{
+  "picBed": {
+    "current": "smms",
+    "uploader": "upyun",
+    "upyun": {
+    "bucket": "zengxinyou",
+    "operator": "a15059051640a",
+    "password": "hCSBVFHiB3k89bjIF24cH8Sr9nuiIxAF",
+    "options": "", 
+    "path": "ocq/",
+    "url": "http://zengxinyou.test.upcdn.net"
+    }
+   },
+  "picgoPlugins": {}
+}
+```
+
+
+
